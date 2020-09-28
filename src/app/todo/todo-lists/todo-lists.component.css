@@ -1,0 +1,17 @@
+.list{
+    font-family: 'Georgia';
+    font-size: 1.2em;
+    line-height: 30px;
+    width: 40%;
+    background-color: #cff3efa8;
+    text-align: center;
+    padding: 1% 0;
+    margin: 2% 30% 0; 
+}
+.list p{
+    font-size: 1.21em;
+}
+.list ul{
+    list-style: none;
+    padding-left: 0;
+}
